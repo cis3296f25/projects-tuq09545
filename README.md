@@ -1,28 +1,20 @@
-# Project Name
-Put here a short paragraph describing your project. 
-Adding an screenshot or a mockup of your application in action would be nice.  
+# Focus Study Buddy
+Focus Study Buddy is a utility to improve productivity in and out of class. In class, you can quickly capture notes from posted articles, Canvas files, etc. Outside of class, you can refer to your clipped notes, set times to study and take breaks, and write summaries to retain information. These features on top of blocking unneeded websites and line by line focus ensure that the user can stay productive. 
 
 ![This is a screenshot.](images.png)
-# How to run
-Provide here instructions on how to use your application.   
-- Download the latest binary from the Release section on the right on GitHub.  
-- On the command line uncompress using
-```
-tar -xzf  
-```
-- On the command line run with
-```
-./hello
-```
-- You will see Hello World! on your terminal. 
-
-# How to contribute
-Follow this project board to know the latest status of the project: [http://...]([http://...])  
 
 ### How to build
-- Use this github repository: ... 
-- Specify what branch to use for a more stable release or for cutting edge development.  
-- Use InteliJ 11
-- Specify additional library to download if needed 
-- What file and target to compile and run. 
-- What is expected to happen when the app start. 
+Proof of Concept for Focus Study Buddy project proposal
+
+Selections of active tab show up selected for a quick note with accompanying timer
+
+Clone/download this repo,
+Open Google Chrome extensions manager
+Turn on developer mode
+'Load unpacked'
+Open the repo folder
+Derived from open-source extension MarkDownload: https://github.com/deathau/markdownload/tree/main
+
+MarkDownload cited code that I utilized: https://jsfiddle.net/Y4BBq/
+
+Assisted by GitHub copilot

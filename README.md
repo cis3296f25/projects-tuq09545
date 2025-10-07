@@ -12,10 +12,16 @@ Proof of Concept for Focus Study Buddy project proposal
 Selections of active tab show up selected for a quick note with accompanying timer
 
 Clone/download the linked repo,
+
 Open Google Chrome extensions manager
+
 Turn on developer mode
+
 'Load unpacked'
+
 Open the repo folder
+
+## How proof of concept was made
 Derived from open-source extension MarkDownload: https://github.com/deathau/markdownload/tree/main
 
 MarkDownload cited code that I utilized: https://jsfiddle.net/Y4BBq/

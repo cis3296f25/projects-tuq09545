@@ -4,11 +4,14 @@ Focus Study Buddy is a utility to improve productivity in and out of class. In c
 ![This is a screenshot.](images.png)
 
 ### How to build
+
+https://github.com/tuq09545/cis4296-project-proofofconcept
+
 Proof of Concept for Focus Study Buddy project proposal
 
 Selections of active tab show up selected for a quick note with accompanying timer
 
-Clone/download this repo,
+Clone/download the linked repo,
 Open Google Chrome extensions manager
 Turn on developer mode
 'Load unpacked'
